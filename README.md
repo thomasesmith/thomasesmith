@@ -1,21 +1,27 @@
-# It's me, Tom Smith! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="30" />
+# It's me, Tom Smith! 👋
 
-### I make `web applications` 
+### I've been making `web applications` professionally for the last 20 years.
 
-<img src="http://itsmetomsmith.com/egolf/egolf-svg.php" align="right" /> I've been a professional web developer for the last 20 years. 
+<img src="http://itsmetomsmith.com/egolf/egolf-svg.php" align="right" /> 
 
-#### Languages and Tools That I Use Pretty Much Every Day...
-- PHP (OO)
-- MySQL & MariaDB / MS SQL
+#### 🧰 Languages and Tools That I Use Pretty Much Every Day...
+- PHP
+- MySQL / MS SQL
 - HTML & CSS / Bootstrap
 - Javascript & jQuery
 - Git / PHPUnit / REST
-- Linux CLI / Apache & Nginx Configuration
+- Linux / Apache & Nginx Configuration
 
-#### Stuff I've Been Tinkering With Lately...
-- Vue.js
+#### 📚 Books I'm Currently Reading...
+- *Laravel Up & Running* by Matt Stauffer
+- *Clean Code* by Uncle Bob
+- *Design Patterns* by The Gang of Four
+- *C Programming Language* by Dennis Ritchie and Brian Kernighan
+
+#### 🔨 Stuff I've Been Tinkering With Lately...
+- Laravel & Tailwind
+- Docker
 - Arduino & electronic circuits
-- C
-- "Quarantine Guitar"
+- Learning C
 
-📧  [tom@itsmetomsmith.com](mailto:tom@itsmetomsmith.com)  | 🐦  [@varwwwhtml](https://www.twitter.com/varwwwhtml)
+📫  [tom@itsmetomsmith.com](mailto:tom@itsmetomsmith.com)  | 🐦  [@varwwwhtml](https://www.twitter.com/varwwwhtml)
