@@ -2,9 +2,7 @@
 
 ### I've been making `web applications` professionally for the last 20 years.
 
-<img src="http://itsmetomsmith.com/egolf/egolf-svg.php" align="right" /> 
-
-#### 🧰 Languages and Tools That I Use Pretty Much Every Day...
+#### 🧰 Languages/Tools That I Use Pretty Much Every Day...
 - PHP
 - MySQL / MS SQL
 - HTML & CSS / Bootstrap
