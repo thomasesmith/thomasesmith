@@ -18,8 +18,9 @@
 - *C Programming Language* by Dennis Ritchie and Brian Kernighan
 
 #### 🔨  Stuff I've Been Tinkering With Lately...
-- Laravel
+- Webpack
 - Tailwind
+- Laravel
 - Docker
 - Arduino & electronic circuits
 - Learning C
