@@ -1,28 +1,25 @@
 # It's me, Tom Smith! 👋
 
-### I've been crafting `php` applications professionally for the last `<?= date('Y') - 2002 ?>` years
-...and some of them have even been good. 
+### I've been crafting web applications professionally for kind of a long time.
+...and some of them have even been sort of good. 
 
-#### 🧰  Disciplines I Use Pretty Much Every Day...
-- PHP (SOLID)
+#### 🧰  Disciplines/Tools I Use Pretty Much Every Day...
+- PHP / Laravel 
 - MySQL / NoSQL
-- HTML & CSS / Bootstrap
-- JavaScript & jQuery
+- HTML / CSS / JS, of course
 - Git / PHPUnit
-- Linux CLI
 
 #### 📚  Books I'm Currently Reading...
-- *Clean Code* by Uncle Bob
+- *The Sixth Extinction* by Elizabeth Kolbert
 - *Laravel Up & Running* by Matt Stauffer
 - *Design Patterns* by The Gang of Four
 - *C Programming Language* by Dennis Ritchie and Brian Kernighan
 
 #### 🔨  Stuff I've Been Tinkering With Lately...
-- Webpack
+- Laravel Livewire
 - Tailwind
-- Laravel
-- Docker
-- Arduino & electronic circuits
-- Learning C
+- Reverse-engineering APIs that aren't meant for public use
+- Insomnia (the app, not the disorder)
+- Vue
 
 🔗  [itsmetomsmith.com](http://itsmetomsmith.com)  |  📫  [tom@itsmetomsmith.com](mailto:tom@itsmetomsmith.com)  |  🐦  [@varwwwhtml](https://www.twitter.com/varwwwhtml)
